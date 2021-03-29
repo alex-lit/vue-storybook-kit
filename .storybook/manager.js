@@ -4,7 +4,6 @@ import theme from './theme';
 
 addons.setConfig({
   panelPosition: 'right',
-
   sidebarAnimations: true,
   theme,
 });
