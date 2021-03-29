@@ -1,37 +1,25 @@
 import { create } from '@storybook/theming/create';
 
 export default create({
-  base: 'light',
-
-  colorPrimary: '#072caf',
-  colorSecondary: '#989eb7',
-
-  // UI
   appBg: 'white',
-  appContentBg: 'white',
   appBorderColor: '#d8d8d8',
   appBorderRadius: 0,
-
-  // Typography
-  fontBase: '"AvertaCY", sans-serif',
-  fontCode: 'monospace',
-
-  // Text colors
-  textColor: '#383838',
-  textInverseColor: 'rgba(255,255,255,0.9)',
-
-  // Toolbar default and active colors
-  barTextColor: '#383838',
-  barSelectedColor: '#072caf',
+  appContentBg: 'white',
   barBg: 'white',
-
-  // Form colors
-  inputBg: 'white',
-  inputBorder: '#d8d8d8',
-  inputTextColor: '#383838',
-  inputBorderRadius: 4,
-
+  barSelectedColor: '#072caf',
+  barTextColor: '#383838',
+  base: 'light',
+  brandImage: '/assets/images/alfacash-logo.svg',
   brandTitle: 'Alfa Ui Kit',
   brandUrl: 'https://app.zeplin.io/project/0000/dashboard',
-  brandImage: '/assets/images/alfacash-logo.svg',
+  colorPrimary: '#072caf',
+  colorSecondary: '#989eb7',
+  fontBase: '"AvertaCY", sans-serif',
+  fontCode: 'monospace',
+  inputBg: 'white',
+  inputBorder: '#d8d8d8',
+  inputBorderRadius: 4,
+  inputTextColor: '#383838',
+  textColor: '#383838',
+  textInverseColor: 'rgba(255,255,255,0.9)',
 });

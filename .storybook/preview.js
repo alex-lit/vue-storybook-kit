@@ -1,3 +1,5 @@
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unresolved */
 import { parameters as nuxtParameters } from '~~/.nuxt-storybook/storybook/preview.js';
 
 export * from '~~/.nuxt-storybook/storybook/preview.js';
