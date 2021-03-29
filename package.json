@@ -21,9 +21,9 @@
       "url": "https://alexlit.gitlab.io"
     }
   ],
-  "main": "utils/index.ts",
+  "main": "src/utils/index.ts",
   "files": [
-    "utils"
+    "src/utils"
   ],
   "scripts": {
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
