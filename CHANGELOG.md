@@ -1,3 +1,5 @@
+# [1.0.0](https://github.com/alex-lit/storybook-vue-kit/compare/v0.2.0...v1.0.0) (2021-04-01)
+
 # [0.2.0](https://github.com/alex-lit/storybook-vue-kit/compare/v0.1.1...v0.2.0) (2021-04-01)
 
 ## [0.1.1](https://github.com/alex-lit/storybook-vue-kit/compare/v0.1.0...v0.1.1) (2021-03-29)
