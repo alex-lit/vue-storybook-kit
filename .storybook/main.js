@@ -1,5 +1,5 @@
-// eslint-disable-next-line import/no-unresolved
-const { nuxifyStorybook } = require('../.nuxt-storybook/storybook/main.js');
+// eslint-disable-next-line import/no-unresolved, import/extensions
+const { nuxifyStorybook } = require('../.nuxt-storybook/storybook/main');
 
 module.exports = nuxifyStorybook({
   addons: [
