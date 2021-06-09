@@ -39,16 +39,16 @@
   },
   "dependencies": {
     "@alexlit/vue-console-log": "^0.1.0",
-    "@nuxtjs/storybook": "^4.0.2",
+    "@nuxtjs/storybook": "^4.0.4",
     "@storybook/addon-actions": "^6.2.9",
     "@storybook/addon-storysource": "^6.2.9",
     "@storybook/addons": "^6.2.9",
     "@storybook/theming": "^6.2.9",
-    "core-js": "^3.12.1",
+    "core-js": "^3.14.0",
     "lit-html": "^1.4.1",
     "storybook-zeplin": "^1.4.0"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^14.2.0"
+    "@alexlit/lint-kit": "^19.2.0"
   }
 }
