@@ -1,3 +1,10 @@
+# 1.3.0 (2021-07-02)
+
+### Features
+
+- add utils
+  ([f4eaf84](https://github.com/alex-lit/storybook-vue-kit/commit/f4eaf84486a4eaae0b175299e39fb36a41bb5eb0))
+
 ## [1.2.1](https://github.com/alex-lit/storybook-vue-kit/compare/v1.2.0...v1.2.1) (2021-06-09)
 
 # [1.2.0](https://github.com/alex-lit/storybook-vue-kit/compare/v1.1.0...v1.2.0) (2021-05-18)
