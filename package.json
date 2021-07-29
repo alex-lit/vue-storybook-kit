@@ -40,15 +40,15 @@
   "dependencies": {
     "@alexlit/vue-console-log": "^0.1.0",
     "@nuxtjs/storybook": "^4.1.1",
-    "@storybook/addon-actions": "^6.3.4",
-    "@storybook/addon-storysource": "^6.3.4",
-    "@storybook/addons": "^6.3.4",
-    "@storybook/theming": "^6.3.4",
+    "@storybook/addon-actions": "^6.3.6",
+    "@storybook/addon-storysource": "^6.3.6",
+    "@storybook/addons": "^6.3.6",
+    "@storybook/theming": "^6.3.6",
     "core-js": "^3.15.2",
     "lit-html": "^1.4.1",
     "storybook-zeplin": "^1.4.0"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^21.5.2"
+    "@alexlit/lint-kit": "^25.2.0"
   }
 }
