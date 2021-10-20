@@ -1,3 +1,10 @@
+# 2.0.0 (2021-10-20)
+
+### Features
+
+- add utils
+  ([f4eaf84](https://github.com/alex-lit/storybook-vue-kit/commit/f4eaf84486a4eaae0b175299e39fb36a41bb5eb0))
+
 # 1.5.0 (2021-08-19)
 
 ### Features
