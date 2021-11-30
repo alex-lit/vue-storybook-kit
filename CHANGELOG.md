@@ -1,3 +1,5 @@
+# [2.1.0](https://github.com/alex-lit/vue-storybook-kit/compare/v2.0.0...v2.1.0) (2021-11-30)
+
 # 2.0.0 (2021-10-20)
 
 ### Features
