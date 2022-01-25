@@ -27,6 +27,7 @@
     "stub"
   ],
   "scripts": {
+    "postinstall": "npm i -S @types/react@file:stub/@types/react",
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
     "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
     "lint:htmllint": "./node_modules/@alexlit/lint-kit/scripts/lint.htmllint.sh",
@@ -44,7 +45,6 @@
     "@storybook/addon-storysource": "^6.4.14",
     "@storybook/addons": "^6.4.14",
     "@storybook/theming": "^6.4.14",
-    "@types/react": "file:stub/@types/react",
     "storybook-zeplin": "^1.7.0"
   },
   "devDependencies": {
