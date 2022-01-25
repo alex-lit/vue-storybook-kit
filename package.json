@@ -23,7 +23,8 @@
   ],
   "main": "src/utils/index.ts",
   "files": [
-    "src/utils"
+    "src",
+    "stub"
   ],
   "scripts": {
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
