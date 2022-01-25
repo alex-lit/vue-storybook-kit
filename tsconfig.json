@@ -19,11 +19,13 @@
     "target": "ES2018"
   },
   "exclude": ["node_modules"],
+  "types": ["@types/react"],
   "include": [
     "*.js",
     "*.ts",
     ".*.js",
     ".*.ts",
+    "./stub/**/*",
     "./src/**/*",
     "./src/**/.*.js",
     "./src/**/.*.ts"
