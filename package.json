@@ -27,7 +27,7 @@
     "stub"
   ],
   "scripts": {
-    "postinstall": "npm i -S @types/react@file:stub/@types/react",
+    "fix:volar": "npm i -S @types/react@file:stub/@types/react",
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
     "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
     "lint:htmllint": "./node_modules/@alexlit/lint-kit/scripts/lint.htmllint.sh",
