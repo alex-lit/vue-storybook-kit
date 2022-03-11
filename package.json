@@ -40,15 +40,15 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "@nuxtjs/storybook": "^4.2.0",
+    "@nuxtjs/storybook": "^4.3.0",
     "@storybook/addon-actions": "^6.4.19",
     "@storybook/addon-storysource": "^6.4.19",
     "@storybook/addons": "^6.4.19",
     "@storybook/theming": "^6.4.19",
-    "@types/react": "file:stub/@types/react",
-    "storybook-zeplin": "^1.7.1"
+    "storybook-zeplin": "^1.7.2"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^57.3.0"
+    "@alexlit/lint-kit": "^57.3.0",
+    "@types/react": "file:stub/@types/react"
   }
 }
