@@ -1,3 +1,5 @@
+## [2.4.5](https://github.com/alex-lit/vue-storybook-kit/compare/v2.4.4...v2.4.5) (2022-04-18)
+
 ## [2.4.4](https://github.com/alex-lit/vue-storybook-kit/compare/v2.4.3...v2.4.4) (2022-04-18)
 
 ## [2.4.3](https://github.com/alex-lit/vue-storybook-kit/compare/v2.4.2...v2.4.3) (2022-04-18)
