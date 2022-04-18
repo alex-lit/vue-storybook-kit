@@ -27,7 +27,6 @@
     "stub"
   ],
   "scripts": {
-    "fix:volar": "npm i -S @types/react@file:stub/@types/react",
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
     "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
     "lint:htmllint": "./node_modules/@alexlit/lint-kit/scripts/lint.htmllint.sh",
@@ -40,7 +39,7 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "@nuxtjs/storybook": "^4.2.0",
+    "@nuxtjs/storybook": "4.2.0",
     "@storybook/addon-actions": "^6.4.22",
     "@storybook/addon-storysource": "^6.4.22",
     "@storybook/addons": "^6.4.22",
